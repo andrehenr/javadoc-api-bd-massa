@@ -31,6 +31,6 @@ O JavaDoc completo da API pode ser encontrado em [JavaDoc](https://andrehenr.git
 	String numeroCodigoBarras = codigoBarras.getCodigoBarras();
 ```
 
-Para mais informações acesse o [JavaDoc]([JavaDoc](https://andrehenr.github.io/javadoc-api-bd-massa/apidocs/index.html) ou entre em contato com andre.graca@rsinet.com.br 
+Para mais informações acesse o [JavaDoc](https://andrehenr.github.io/javadoc-api-bd-massa/apidocs/index.html) ou entre em contato com andre.graca@rsinet.com.br 
 
 
